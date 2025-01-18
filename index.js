@@ -5,7 +5,7 @@ import fs from 'fs';
 // TODO: Create an array of questions for user input
 
  
- 
+ //checking here 
 
     /*
     //this array (questions), has objects within it that describe the question that needs to be answered and an empty array to store the user reponse
