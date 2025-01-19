@@ -100,7 +100,7 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
-  ## Licenses
+  ## License
   ${renderLicenseBadge(data.license)}  
   ${renderLicenseLink(data.license)}
 
