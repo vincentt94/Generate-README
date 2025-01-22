@@ -30,4 +30,7 @@
   ## Questions
   If you have any questions, you can reach me at vincent.h.thao@gmail.com or visit my GitHub profile at https://github.com/vincentt94/
 
+Here you can view a live demonstration of how the application can be installed and used.  
+https://drive.google.com/file/d/1DTC4ofeboTIdN3M3Y8fQIVDz-4LwkuYY/preview
+
 
